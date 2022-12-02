@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @nckroy
+- 👋 Hi, I’m Nicole Roy
 
 I like old Internet protocols and RFCs. I love working with SAML from the OASIS SSTC and related technologies.
 Also into OpenID Connect, and teaching myself Node and Go. I've done some things in Python, too.
